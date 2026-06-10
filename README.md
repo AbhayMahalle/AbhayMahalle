@@ -201,17 +201,6 @@ https://www.researchgate.net/publication/403371380_Smart_Green_Corridors_An_IoT-
 
 ---
 
-## 🎯 2026 Goals
-
-* [ ] Solve 500+ LeetCode Problems
-* [ ] Become Strong in Advanced DSA
-* [ ] Learn System Design
-* [ ] Build Production-Level Full Stack Applications
-* [ ] Explore Machine Learning & MLOps
-* [ ] Secure a Software Engineering Internship
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
