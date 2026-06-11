@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Abhay Mahalle
+# Hi there, I'm Abhay Mahalle
 
 <div align="center">
 
