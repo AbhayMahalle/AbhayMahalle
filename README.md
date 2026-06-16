@@ -2,22 +2,30 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00D4FF&text=Abhay%20Mahalle&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer%20|%20AI%20Explorer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:00D4FF&text=Abhay%20Mahalle&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Competitive%20Programmer%20•%20AI/ML%20Developer&descAlignY=60"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&duration=2800\&pause=1000\&color=00D4FF\&center=true\&vCenter=true\&width=800\&lines=Full+Stack+Developer+🚀;Competitive+Programmer+🏆;Codeathon'26+Winner+🥇;B.Tech+Computer+Science+@+VIT+Pune+🎓;CGPA+9.27%2F10.00+📈;Published+Research+Author+📄;Exploring+AI+%26+Machine+Learning+🤖;Open+to+Software+Engineering+Internships+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+🚀;Competitive+Programmer+🏆;700%2B+LeetCode+Problems+Solved+💻;1750%2B+LeetCode+Rating+📈;Codeathon'26+Winner+🥇;Published+Research+Author+📄;Building+AI-Powered+Applications+🤖;Open+to+Software+Engineering+Internships+🎯)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhaymahalle/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AbhayMahalle)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Abhay_Mahalle/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abhaymahalle0311@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaymahalle/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhayMahalle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Abhay_Mahalle/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaymahalle0311@gmail.com)
 
-<br>
+<br><br>
 
-![](https://komarev.com/ghpvc/?username=AbhayMahalle\&style=for-the-badge\&color=00D4FF)
+<img src="https://img.shields.io/badge/LeetCode-700%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/Rating-1750%2B-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codeathon'26-Winner-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-9.27%2F10-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-Published-blue?style=for-the-badge"/>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=AbhayMahalle&style=for-the-badge&color=00D4FF)
 
 </div>
 
@@ -25,25 +33,29 @@
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjN6NmxqNmJjcWd4MWdrY2dndjR6eGQ4b3N0b3YzYW11cGhxbTRrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I'm a **Computer Science student at VIT Pune** passionate about building scalable software products, solving algorithmic challenges, and exploring AI-powered applications.
+I'm a **Computer Science undergraduate at Vishwakarma Institute of Technology (VIT), Pune**, passionate about building scalable software systems, solving challenging algorithmic problems, and developing AI-powered applications.
 
-### Current Focus
+I enjoy combining **Software Engineering**, **Competitive Programming**, and **Artificial Intelligence** to build impactful products that solve real-world problems.
 
-* 🚀 Full Stack Development
-* 🏆 Competitive Programming
-* 🤖 Artificial Intelligence & Machine Learning
-* 📚 Data Structures & Algorithms
-* ⚙️ Software Engineering
+### 🎯 Current Focus
 
-### Quick Facts
+- 🚀 Full Stack Development
+- 🏆 Competitive Programming
+- 🤖 Artificial Intelligence & Machine Learning
+- 📚 Data Structures & Algorithms
+- ⚙️ Software Engineering
 
-* 🎓 B.Tech Computer Science @ VIT Pune
-* 📈 CGPA: **9.27 / 10.00**
-* 🥇 Winner of **Codeathon'26**
-* 📄 Published Research Author
-* 🎯 Open to SWE Internships
+### ⚡ Quick Facts
+
+- 🎓 B.Tech Computer Science @ VIT Pune
+- 📈 CGPA: **9.27 / 10.00**
+- 💻 Solved **700+ LeetCode Problems**
+- 📊 Current LeetCode Rating: **1750+**
+- 🥇 Winner — **Codeathon'26**
+- 📄 Published Research Author
+- 🎯 Open to Software Engineering Internships
 
 > **"Build. Learn. Improve. Repeat."**
 
@@ -55,13 +67,14 @@ I'm a **Computer Science student at VIT Pune** passionate about building scalabl
 
 <div align="center">
 
-| Achievement             | Details                                   |
-| ----------------------- | ----------------------------------------- |
-| 🥇 Codeathon'26         | 1st Place Competitive Programming Contest |
-| 🎓 Academic Excellence  | CGPA 9.27 / 10.00                         |
-| 📊 MHT-CET              | 99.3 Percentile                           |
-| 📊 JEE Main             | 92.84 Percentile                          |
-| 📄 Research Publication | Smart Green Corridors                     |
+| Achievement | Details |
+|------------|---------|
+| 🥇 Codeathon'26 | 1st Place Competitive Programming Contest |
+| 💻 LeetCode | 700+ Problems Solved |
+| 📈 Rating | 1750+ |
+| 🎓 CGPA | 9.27 / 10.00 |
+| 📄 Publication | Smart Green Corridors |
+| 🚀 Domain | Full Stack + AI/ML |
 
 </div>
 
@@ -75,14 +88,14 @@ I'm a **Computer Science student at VIT Pune** passionate about building scalabl
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayMahalle&repo=PreDelinq-AI&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/AbhayMahalle/CampusKart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayMahalle&repo=CampusKart&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/AbhayMahalle/ResumePilot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayMahalle&repo=ResumePilot&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/AbhayMahalle/ResumePilot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayMahalle&repo=ResumePilot&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/AbhayMahalle/CampusKart">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayMahalle&repo=CampusKart&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/AbhayMahalle/Safe-Stream-Share">
@@ -91,14 +104,61 @@ I'm a **Computer Science student at VIT Pune** passionate about building scalabl
 
 </div>
 
-<br>
+---
 
-| Project              | Tech Stack                    | Description                                                |
-| -------------------- | ----------------------------- | ---------------------------------------------------------- |
-| 🏦 PreDelinq-AI      | Python · XGBoost · Pandas     | Predictive delinquency risk monitoring platform            |
-| 🛒 CampusKart        | React · TypeScript · Firebase | College marketplace for buying, selling, and flat listings |
-| 🤖 ResumePilot       | React · Node.js · AI APIs     | AI-powered resume analysis and ATS optimization            |
-| 🔒 Safe-Stream-Share | TypeScript · Full Stack       | Secure content delivery and management platform            |
+### 🏦 PreDelinq AI
+
+**End-to-End Credit Risk & Delinquency Prediction Platform**
+
+- Engineered hundreds of financial and behavioral features from multiple banking datasets
+- Trained Logistic Regression, Random Forest, XGBoost, LightGBM, and CatBoost models
+- Achieved **ROC-AUC = 0.781**
+- Implemented SHAP Explainability
+- Generated Probability-of-Default (PD) Scores
+- Segmented customers into actionable risk categories
+
+**Tech Stack:** Python • CatBoost • XGBoost • LightGBM • SHAP • Pandas • NumPy
+
+---
+
+### 🤖 ResumePilot
+
+**AI-Powered Resume Analysis Platform**
+
+- ATS Score Analysis
+- Resume Parsing
+- Skill Gap Detection
+- AI-Powered Recommendations
+- Resume Improvement Suggestions
+
+**Tech Stack:** React • Node.js • MongoDB • Gemini API
+
+---
+
+### 🛒 CampusKart
+
+**Marketplace Platform for Students**
+
+- Product Listings
+- Flat Listings
+- Real-Time Chat
+- Recommendation System
+- Admin Dashboard
+
+**Tech Stack:** React • TypeScript • Firebase
+
+---
+
+### 🔒 Safe-Stream-Share
+
+**Secure Content Sharing Platform**
+
+- Authentication & Authorization
+- Secure Content Delivery
+- Access Control
+- Protected File Sharing
+
+**Tech Stack:** TypeScript • Full Stack
 
 ---
 
@@ -107,14 +167,22 @@ I'm a **Computer Science student at VIT Pune** passionate about building scalabl
 <div align="center">
 
 <a href="https://leetcode.com/u/Abhay_Mahalle/">
-<img src="https://leetcard.jacoblin.cool/Abhay_Mahalle?theme=dark&font=Karma"/>
+<img src="https://leetcard.jacoblin.cool/Abhay_Mahalle?theme=dark&font=Karma&ext=contest"/>
 </a>
 
 </div>
 
-### Core Topics
+### Topics I Enjoy
 
-`Graphs` • `Trees` • `Dynamic Programming` • `Greedy` • `Binary Search` • `Backtracking` • `Sliding Window`
+`Graphs`
+`Trees`
+`Dynamic Programming`
+`Binary Search`
+`Greedy`
+`Backtracking`
+`Sliding Window`
+`Recursion`
+`Bit Manipulation`
 
 ---
 
@@ -132,15 +200,19 @@ I'm a **Computer Science student at VIT Pune** passionate about building scalabl
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark"/>
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark"/>
 
-### Cloud & Tools
+### Cloud & Services
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
 </div>
 
@@ -150,16 +222,16 @@ I'm a **Computer Science student at VIT Pune** passionate about building scalabl
 
 ### 🚑 Smart Green Corridors
 
-**An IoT-Based System for Ambulance Route Optimization**
+### An IoT-Based System for Ambulance Route Optimization
 
-Research focused on:
+Published research proposing an IoT-enabled framework for:
 
-* Smart Transportation Systems
-* Emergency Vehicle Prioritization
-* Intelligent Traffic Management
-* IoT-Based Route Optimization
+- Intelligent Ambulance Routing
+- Smart Traffic Signal Coordination
+- Emergency Vehicle Prioritization
+- Intelligent Transportation Systems
 
-📄 Publication:
+🔗 Research Publication:
 
 https://www.researchgate.net/publication/403371380_Smart_Green_Corridors_An_IoT-Based_System_for_Ambulance_Route_Optimization
 
@@ -169,11 +241,15 @@ https://www.researchgate.net/publication/403371380_Smart_Green_Corridors_An_IoT-
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhayMahalle&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhayMahalle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayMahalle&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayMahalle&theme=tokyonight&hide_border=true"/>
 
@@ -181,7 +257,7 @@ https://www.researchgate.net/publication/403371380_Smart_Green_Corridors_An_IoT-
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -191,25 +267,26 @@ https://www.researchgate.net/publication/403371380_Smart_Green_Corridors_An_IoT-
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhayMahalle&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhaymahalle/)
+<a href="https://www.linkedin.com/in/abhaymahalle/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AbhayMahalle)
+<a href="https://github.com/AbhayMahalle">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Abhay_Mahalle/)
+<a href="https://leetcode.com/u/Abhay_Mahalle/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:abhaymahalle0311@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -217,7 +294,7 @@ https://www.researchgate.net/publication/403371380_Smart_Green_Corridors_An_IoT-
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Building Scalable Software • Solving Problems • Creating Impact ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0D1117&height=120&section=footer"/>
 
