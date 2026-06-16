@@ -6,8 +6,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+🚀;Competitive+Programmer+🏆;700%2B+LeetCode+Problems+Solved+💻;1750%2B+LeetCode+Rating+📈;Codeathon'26+Winner+🥇;Published+Research+Author+📄;Building+AI-Powered+Applications+🤖;Open+to+Software+Engineering+Internships+🎯)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+🚀;Competitive+Programmer+🏆;700%2B+LeetCode+Problems+Solved+💻;1750%2B+LeetCode+Rating+📈;Codeathon'26+Winner+🥇;Published+Research+Author+📄;AI%2FML+Developer+🤖;Open+to+Software+Engineering+Internships+🎯)](https://git.io/typing-svg)
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaymahalle/)
